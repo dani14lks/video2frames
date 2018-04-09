@@ -1,4 +1,4 @@
 # video2frames
 
 Script to save the frames from a video into images.
-Tested in macOS Sierra with Anaconda Python 2.
+Tested in macOS High Sierra with Anaconda Python 2.
